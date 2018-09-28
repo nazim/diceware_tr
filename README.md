@@ -1,2 +1,2 @@
 # diceware_tr
-Diceware TÜrkçe Kelime Listesi
+Diceware Türkçe Kelime Listesi
